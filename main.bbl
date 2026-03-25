@@ -1,0 +1,36 @@
+\begin{thebibliography}{1}
+
+\bibitem{SciDirectOverview}
+Detached {Eddy} {Simulation} - an overview {\textbar} {ScienceDirect} {Topics}.
+
+\bibitem{choi2012grid}
+Haecheon Choi and Parviz Moin.
+\newblock Grid-point requirements for large eddy simulation: {Chapman}’s estimates revisited.
+\newblock {\em Physics of Fluids}, 24(1):011702, January 2012.
+
+\bibitem{piomelli2002wall}
+Ugo Piomelli and Elias Balaras.
+\newblock Wall-layer models for large-eddy simulations.
+\newblock {\em Annual review of fluid mechanics}, 34(1):349--374, 2002.
+
+\bibitem{pope2000}
+Stephen~B. Pope.
+\newblock {\em Turbulent Flows}.
+\newblock Cambridge University Press, 2000.
+
+\bibitem{shur2008hybrid}
+Mikhail~L. Shur, Philippe~R. Spalart, Mikhail~Kh. Strelets, and Andrey~K. Travin.
+\newblock A hybrid {RANS-LES} approach with delayed-{DES} and wall-modelled {LES} capabilities.
+\newblock {\em International Journal of Heat and Fluid Flow}, 29(6):1638--1649, 2008.
+
+\bibitem{SAModel}
+Philippe Spalart and Steven Allmaras.
+\newblock A one-equation turbulence model for aerodynamic flows.
+\newblock {\em AIAA}, 439, 01 1992.
+
+\bibitem{Wilcox93}
+D~C Wilcox.
+\newblock Comparison of two-equation turbulence models for boundary layers with pressure gradient.
+\newblock {\em AIAA Journal (American Institute of Aeronautics and Astronautics); (United States)}, 31:8, 08 1993.
+
+\end{thebibliography}
